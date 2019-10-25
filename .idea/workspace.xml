@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81cfad16-7ad8-42cf-90e4-34294d36c65a" name="Default Changelist" comment="" />
+    <list id="4e78f3b0-8a48-42df-9c89-2c6f6126d183" name="Revert &quot;add list&quot;" comment="Revert &quot;add list&quot;&#10;&#10;This reverts commit 3c1b1e48" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="Git.Update.Project.Info.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QgyjUvTgqQpzh3wt12bDMNgkcy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81cfad16-7ad8-42cf-90e4-34294d36c65a" name="Default Changelist" comment="" />
+      <created>1568206668229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568206668229</updated>
+      <workItem from="1568206670386" duration="1044000" />
+      <workItem from="1568207735681" duration="4033000" />
+      <workItem from="1568219551789" duration="53000" />
+      <workItem from="1568220262883" duration="3921000" />
+      <workItem from="1571377994038" duration="343000" />
+      <workItem from="1571999274297" duration="248000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new paragraph">
+      <created>1568208553027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208553027</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add heading">
+      <created>1568217138659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568217138660</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new text">
+      <created>1568217885564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568217885564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new text2">
+      <created>1568217993753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568217993753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add new text">
+      <created>1568218303300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568218303303</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add new text2">
+      <created>1568218385957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568218385957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;add new text2&quot;&#10;&#10;This reverts commit 0dff2be6">
+      <created>1568218429534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568218429534</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add head">
+      <created>1568221669624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568221669624</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add text">
+      <created>1568221695343</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568221695343</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add 1">
+      <created>1568223543776</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568223543776</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add 2">
+      <created>1568223568020</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568223568020</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add 3">
+      <created>1568223584179</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568223584179</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new paragraph" />
+    <MESSAGE value="add heading" />
+    <MESSAGE value="add new text" />
+    <MESSAGE value="add new text2" />
+    <MESSAGE value="Revert &quot;add new text2&quot;&#10;&#10;This reverts commit 0dff2be6" />
+    <MESSAGE value="add head" />
+    <MESSAGE value="add text" />
+    <MESSAGE value="add 1" />
+    <MESSAGE value="add 2" />
+    <MESSAGE value="add 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3" />
+  </component>
+</project>
