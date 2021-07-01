@@ -22,6 +22,10 @@ function App() {
                 <p>4</p>
                 <p>5</p>
             </section>
+            <section>
+                <h2>CSS1</h2>
+                <span>1</span>
+            </section>
         </div>
 
     );
