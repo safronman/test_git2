@@ -8,3 +8,9 @@ option {
     color: forestgreen;
 }
 
+.input {
+    padding: 10px;
+    margin: 10px;
+    background-color: #101010;
+    color: #ffffff;
+}

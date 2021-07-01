@@ -13,6 +13,10 @@ function App() {
                     <option value="3">3</option>
                 </select>
             </section>
+            <section>
+                <h2>Input</h2>
+                <input type="text" className={'input'}/>
+            </section>
         </div>
 
     );
