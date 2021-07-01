@@ -2,3 +2,9 @@
     border: 2px solid red;
     width: 150px;
 }
+
+option {
+    background-color: aqua;
+    color: forestgreen;
+}
+
