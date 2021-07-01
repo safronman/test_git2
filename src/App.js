@@ -17,6 +17,7 @@ function App() {
                 <h2>Input</h2>
                 <input type="text" className={'input'}/>
                 <p>1</p>
+                <p>2</p>
             </section>
         </div>
 
