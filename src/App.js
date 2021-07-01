@@ -26,6 +26,7 @@ function App() {
                 <h2>CSS1</h2>
                 <span>1</span>
                 <span>2</span>
+                <span>3</span>
             </section>
         </div>
 
