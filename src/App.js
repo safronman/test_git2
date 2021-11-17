@@ -4,7 +4,7 @@ import './App.css';
 function App() {
     return (
         <div>
-            <h1>GIT</h1>
+            <h1>GIT1</h1>
             <section>
                 <h2>Select</h2>
                 <select name="" id="" className={'select'}>
