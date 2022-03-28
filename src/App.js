@@ -31,6 +31,7 @@ function App() {
             <h1>dev2 - 1 commit</h1>
             <h1>dev2 - 2 commit</h1>
             <h1>dev2 - 3 commit</h1>
+            <h1>dev2 - 4 commit</h1>
         </div>
 
     );
