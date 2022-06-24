@@ -18,3 +18,7 @@ option {
 .box{
     box-sizing: border-box;
 }
+
+.box2 {
+    border: 2px solid orchid;
+}
