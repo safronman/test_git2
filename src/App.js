@@ -5,6 +5,7 @@ function App() {
     return (
         <div>
             <p>sidorov page</p>
+            <p>ivanov page</p>
         </div>
 
     );
