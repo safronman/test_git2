@@ -6,6 +6,8 @@ function App() {
         <div>
             <p>ivan</p>
             <p>ivanov</p>
+            <p>petr</p>
+            <p>petrov</p>
         </div>
 
     );
