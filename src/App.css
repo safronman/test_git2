@@ -14,3 +14,7 @@ option {
     background-color: #101010;
     color: #ffffff;
 }
+
+.box{
+    box-sizing: border-box;
+}
