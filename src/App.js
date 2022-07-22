@@ -10,6 +10,11 @@ function App() {
                 <p>login</p>
                 <input type="text"/>
             </div>
+            <div>
+                <h1>profile</h1>
+                <p>name</p>
+                <p>email</p>
+            </div>
         </div>
 
     );
