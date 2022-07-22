@@ -16,7 +16,7 @@ option {
 }
 
 .box{
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 .box2 {
