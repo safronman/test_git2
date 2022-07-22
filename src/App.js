@@ -6,7 +6,11 @@ function App() {
         <div>
             <p>1</p>
             <p>2</p>
-            <p>3</p>
+            <div>
+                <h1>profile</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolorum iure velit! Animi dolorum
+                    hic, labore molestiae nemo nobis rem.</p>
+            </div>
         </div>
     );
 }
