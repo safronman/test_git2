@@ -6,17 +6,7 @@ function App() {
         <div>
             <p>1</p>
             <p>2</p>
-            <div>
-                <p>login</p>
-                <input type="text"/>
-            </div>
-            <div>
-                <h1>profile</h1>
-                <p>name</p>
-                <p>email</p>
-            </div>
         </div>
-
     );
 }
 
