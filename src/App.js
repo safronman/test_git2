@@ -6,6 +6,10 @@ function App() {
         <div>
             <p>1</p>
             <p>2</p>
+            <div>
+                login
+                <input type="text" placeholder={'email'}/>
+            </div>
         </div>
     );
 }
