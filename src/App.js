@@ -14,6 +14,7 @@ function App() {
                 profile
                 <img src="#" alt=""/>
             </div>
+            <div>TEST</div>
         </div>
     );
 }
