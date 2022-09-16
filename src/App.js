@@ -10,6 +10,10 @@ function App() {
                 login
                 <input type="text" placeholder={'email'}/>
             </div>
+            <div>
+                profile
+                <img src="#" alt=""/>
+            </div>
         </div>
     );
 }
