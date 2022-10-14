@@ -4,17 +4,7 @@ import './App.css';
 function App() {
     return (
         <div>
-            <p>1</p>
-            <p>2</p>
-            <div>
-                login
-                <input type="text" placeholder={'email'}/>
-            </div>
-            <div>
-                profile
-                <img src="#" alt=""/>
-            </div>
-            <div>TEST</div>
+           <h1>Hello</h1>
         </div>
     );
 }
