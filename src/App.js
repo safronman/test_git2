@@ -8,7 +8,7 @@ function App() {
             <form action="">
                 login
             </form>
-            <h1>Profile</h1>
+            <h1>Profile Vlad</h1>
             <img src="" alt=""/>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, nulla.</p>
         </div>
