@@ -1,24 +1,29 @@
 .select {
-    border: 2px solid red;
-    width: 150px;
+  width: 150px;
+
+  border: 2px solid red;
 }
 
 option {
-    background-color: aqua;
-    color: forestgreen;
+  color: forestgreen;
+
+  background-color: aqua;
 }
 
 .input {
-    padding: 10px;
-    margin: 10px;
-    background-color: #101010;
-    color: #ffffff;
+  margin: 10px;
+  padding: 10px;
+
+  font-weight: bold;
+  color: #ffffff;
+
+  background-color: #101010;
 }
 
-.box{
-    box-sizing: content-box;
+.box {
+  box-sizing: content-box;
 }
 
 .box2 {
-    border: 2px solid blueviolet;
+  border: 2px solid blueviolet;
 }
