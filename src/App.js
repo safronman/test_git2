@@ -8,8 +8,8 @@ function App() {
       <img src="" alt="" />
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, placeat?</p>
       <input type="text" />
-      <button>111111</button>
-        4444444444
+      <button>Gello!</button>
+      4444444444
     </div>
   )
 }
