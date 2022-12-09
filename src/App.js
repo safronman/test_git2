@@ -12,6 +12,7 @@ function App() {
         </form>
       </div>
       <div>
+        <span>test</span>
         <h1>profile-Andrey</h1>
         <div>
           <img src="#" alt="" />
