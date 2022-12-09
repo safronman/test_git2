@@ -10,6 +10,7 @@ function App() {
         <form action="">
           <input type="email" />
         </form>
+        <button>1</button>
       </div>
       <div>
         <h1>profile-Andrey3</h1>
