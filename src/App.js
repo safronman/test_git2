@@ -14,10 +14,10 @@ function App() {
       </div>
       <div>
         <h1>profile-Andrey3</h1>
-
         <div>
           <img src="#" alt="" />
         </div>
+         <button>Gello!</button>
       </div>
     </div>
   )
