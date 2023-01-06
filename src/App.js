@@ -8,7 +8,7 @@ function App() {
         <h1>login</h1>
         <form action="">
           <input type="text" />
-          <button>login</button>
+          <button>login - Anton</button>
         </form>
       </div>
       <div>
