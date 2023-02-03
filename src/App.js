@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 
 function App() {
   return (
@@ -14,6 +13,7 @@ function App() {
         <img src="" alt="" />
       </div>
       <div>registrate</div>
+      asdfsa
     </div>
   )
 }
