@@ -13,6 +13,7 @@ function App() {
         <h1>PROFILE</h1>
         <img src="" alt="" />
       </div>
+      <div>registrate</div>
     </div>
   )
 }
