@@ -10,7 +10,7 @@ function App() {
         <button>login</button>
       </div>
       <div>
-        <h1>PROFILE</h1>
+        <h1>PROFILE 2</h1>
         <img src="" alt="" />
       </div>
       <div>registrate</div>
