@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <div>
-        <h1>login</h1>
+        <h1>login2</h1>
         <input type="text" placeholder={'enter login'} />
         <button>login</button>
       </div>
