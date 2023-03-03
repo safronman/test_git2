@@ -15,6 +15,7 @@ function App() {
 			<h2>profile</h2>
 			<img src="fdsfds/sdfdsf" alt="avatar"/>
 			<button onClick={logoutHandler}>logout</button>
+			dhfkjdsjss
 		</div>
 	)
 }
