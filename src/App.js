@@ -6,6 +6,8 @@ function App() {
     <div>
 	    <h1>login</h1>
 	    <input type="text" placeholder={'login'}/>
+	    <h1>profile</h1>
+	    <img src="fdsfds/sdfdsf" alt="avatar"/>
     </div>
   )
 }
